@@ -1,0 +1,7 @@
+/project/_build/*
+/project/settings/*
+/project/pcba/*
+/project/Debug/*
+*.dep
+/project/ble_freertos.dep
+/project/unit_test.dep
